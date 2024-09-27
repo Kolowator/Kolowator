@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## There's nothing in this repository yet, but I hope there will be soon 😄
 <!--
 **Kolowator/Kolowator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
